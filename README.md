@@ -4,4 +4,5 @@
 - todo.md:   ToDoリスト
 
 ### キャラクター
+- /characters/important-values.md:                    重要な価値観
 - /characters/setting-antagonist-from-protagonist.md: 主人公から敵対者を設定する
